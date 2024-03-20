@@ -7,66 +7,70 @@
           "nom": "Monkey D. Luffy",
           "poste": "Capitaine",
           "fruitDuDemon": "Gomu Gomu no Mi",
-          "prime": "3 000 000 000"
+          "prime": "3,000,000,000",
+          "commentaire": "Peut rendre son corps élastique, maîtrise les trois types de Haki. Rêve de devenir le Roi des Pirates."
         },
         {
           "nom": "Roronoa Zoro",
           "poste": "Épéiste",
-          "fruitDuDemon": "Aucun",
-          "prime": "1 111 000 000"
+          "prime": "1,111,000,000",
+          "commentaire": "Utilise le Santoryu, maîtrise deux types de Haki. Rêve de devenir le plus grand sabreur du monde."
         },
         {
           "nom": "Nami",
           "poste": "Navigatrice",
-          "fruitDuDemon": "Aucun",
-          "prime": "366 000 000"
+          "prime": "366,000,000",
+          "commentaire": "Experte en navigation et météorologie. Utilise Zeus pour contrôler la météo. Rêve de tracer une carte complète du monde."
         },
         {
           "nom": "Usopp",
           "poste": "Canonnier",
-          "fruitDuDemon": "Aucun",
-          "prime": "500 000 000"
+          "prime": "500,000,000",
+          "commentaire": "Tireur d'élite, maîtrise le Haki de l'Observation. Rêve de devenir un valeureux guerrier des mers."
         },
         {
           "nom": "Vinsmoke Sanji",
           "poste": "Cuisinier",
-          "fruitDuDemon": "Gomu Gomu no Mi",
-          "prime": "1 032 000 000"
+          "prime": "1,032,000,000",
+          "commentaire": "Maîtrise le Diable Jambe, techniques culinaires avancées. Rêve de trouver All Blue."
         },
         {
           "nom": "Tony Tony Chopper",
           "poste": "Médecin",
           "fruitDuDemon": "Hito Hito no Mi",
-          "prime": "1000"
+          "prime": "1,000",
+          "commentaire": "Peut se transformer grâce au Hito Hito no Mi et Rumble Ball. Rêve de guérir toutes les maladies."
         },
         {
           "nom": "Nico Robin",
           "poste": "Archéologue",
           "fruitDuDemon": "Hana Hana no Mi",
-          "prime": "930 000 000"
+          "prime": "930,000,000",
+          "commentaire": "Peut faire pousser des parties de son corps, cherche à découvrir l'histoire perdue."
         },
         {
           "nom": "Franky",
           "poste": "Charpentier",
-          "fruitDuDemon": "Aucun",
-          "prime": "394 000 000"
+          "prime": "394,000,000",
+          "commentaire": "Cyborg avec un corps renforcé et un arsenal intégré. Rêve de naviguer autour du monde sur un navire qu'il a conçu."
         },
         {
           "nom": "Brook",
           "poste": "Musicien",
           "fruitDuDemon": "Yomi Yomi no Mi",
-          "prime": "383 000 000"
+          "prime": "383,000,000",
+          "commentaire": "Squelette vivant grâce au Yomi Yomi no Mi, excellent épéiste et musicien. Rêve de revoir Laboon."
         },
         {
           "nom": "Jimbe",
           "poste": "Timonier",
-          "fruitDuDemon": "Aucun",
-          "prime": "1 100 000 000"
+          "prime": "1,100,000,000",
+          "commentaire": "Expert en karaté des hommes-poissons, maîtrise deux types de Haki. Rêve de cohabitation pacifique entre humains et hommes-poissons."
         }
       ],
       "nomBateau": "Thousand Sunny",
-      "imageBateau": "https://pm1.aminoapps.com/6798/f4c514e9b93104f1f302245fe724c90be1b45851v2_00.jpg",
-      "jollyRoger": "https://ih0.redbubble.net/image.4633589145.6165/raf,360x360,075,t,fafafa:ca443f4786.jpg"
+      "imageBateau": "https://pm1.narvii.com/6798/f4c514e9b93104f1f302245fe724c90be1b45851v2_hq.jpg",
+      "jollyRoger": "https://ih1.redbubble.net/image.4633589145.6165/raf,360x360,075,t,fafafa:ca443f4786.jpg"
     },
     {
       "nomEquipage": "Barbe Noire",
@@ -75,71 +79,91 @@
           "nom": "Marshall D. Teach",
           "poste": "Capitaine",
           "fruitDuDemon": "Yami Yami no Mi, Gura Gura no Mi",
-          "prime": "3.996.000.000"
+          "arme": "Griffes, pistolets",
+          "haki": "Armement, Observation",
+          "prime": "3,996,000,000",
+          "commentaire": "Ancien Shichibukai, membre de L'Équipage de Barbe Blanche, l'un des 4 Yonkou."
         },
         {
           "nom": "Jesus Burgess",
-          "poste": "commandant de la 1ère flotte",
+          "poste": "Commandant de la 1ère flotte, Timonier",
           "fruitDuDemon": "Riki Riki no Mi",
-          "prime": "supérieur à 20.000.000"
+          "arme": "Deux pistolets, dague",
+          "haki": "Observation, Armement",
+          "prime": "Supérieur à 20,000,000",
+          "commentaire": "Force physique impressionnante, finaliste d'un tournoi au Colisée Corrida."
         },
         {
           "nom": "Shiliew",
-          "poste": "commandant de la 2ème flotte",
+          "poste": "Commandant de la 2ème flotte",
           "fruitDuDemon": "Suke Suke no Mi",
-          "prime": "Inconnu"
+          "arme": "Sabre 'Raiu'",
+          "prime": "Inconnu",
+          "commentaire": "Ancien gardien en chef d'Impel Down."
         },
         {
           "nom": "Van Augur",
-          "poste": "commandant de la 3ème flotte",
+          "poste": "Commandant de la 3ème flotte, Vigie",
           "fruitDuDemon": "Wapu Wapu no Mi",
-          "prime": "Inconnu"
+          "arme": "Fusil 'Senriku'",
+          "prime": "Supérieur à 64,000,000",
+          "commentaire": "Tireur d'élite, capable de viser juste à très grande distance."
         },
         {
           "nom": "Avalo Pizarro",
-          "poste": "commandant de la 4ème flotte",
+          "poste": "Commandant de la 4ème flotte",
           "fruitDuDemon": "Shima Shima no Mi",
-          "prime": "Inconnu"
+          "prime": "Inconnu",
+          "commentaire": "Ancien prisonnier du niveau 6 d'Impel Down."
         },
         {
           "nom": "Laffitte",
-          "poste": "commandant de la 5ème flotte",
-          "fruitDuDemon": "Inconnu",
-          "prime": "Supérieur à 42.200.000"
+          "poste": "Commandant de la 5ème flotte, Navigateur",
+          "prime": "Supérieur à 42,200,000",
+          "commentaire": "Ancien shériff, peut faire pousser des ailes et voler, hypnotiseur."
         },
         {
           "nom": "Catarina Devon",
-          "poste": "commandant de la 6ème flotte",
+          "poste": "Commandant de la 6ème flotte",
           "fruitDuDemon": "Inu Inu no Mi, modèle Kyubi no Kitsune",
-          "prime": "Inconnu"
+          "arme": "Fouet, lance, sabre",
+          "prime": "Inconnu",
+          "commentaire": "Ancienne prisonnière du niveau 6 d'Impel Down."
         },
         {
           "nom": "Sanjuan Wolf",
-          "poste": "commandant de la 7ème flotte",
+          "poste": "Commandant de la 7ème flotte",
           "fruitDuDemon": "Deka Deka no Mi",
-          "prime": "Inconnu"
+          "prime": "Inconnu",
+          "commentaire": "Géant, ancien prisonnier du niveau 6 d'Impel Down, résistant à la chaleur."
         },
         {
           "nom": "Vasco Shot",
-          "poste": "commandant de la 8ème flotte",
+          "poste": "Commandant de la 8ème flotte",
           "fruitDuDemon": "Gabu Gabu no Mi",
-          "prime": "Inconnu"
+          "arme": "Deux pistolets",
+          "prime": "Inconnu",
+          "commentaire": "Ancien prisonnier du niveau 6 d'Impel Down."
         },
         {
           "nom": "Doc Q",
-          "poste": "commandant de la 9ème flotte",
+          "poste": "Commandant de la 9ème flotte, Médecin",
           "fruitDuDemon": "Shiku Shiku no Mi",
-          "prime": "Supérieur à 72.000.000"
+          "arme": "Faux à double tranchant",
+          "prime": "Supérieur à 72,000,000",
+          "commentaire": "Possède une haute vitesse."
         },
         {
           "nom": "Kuzan",
-          "poste": "commandant de la 10ème flotte",
-          "fruitDuDemon": " Hie Hie no Mi",
-          "prime": "Inconnu"
+          "poste": "Commandant de la 10ème flotte",
+          "fruitDuDemon": "Hie Hie no Mi",
+          "haki": "Armement, Observation",
+          "prime": "Inconnu",
+          "commentaire": "Ancien amiral de la Marine, dernier capitaine à rejoindre l'équipage."
         }
       ],
       "nomBateau": "Saber of Xebec",
-      "imageBateau" : "https://www.opfanpage.com/wp-content/uploads/2022/06/Saber_of_Xebec-1024x853a.png",
+      "imageBateau": "https://www.opfanpage.com/wp-content/uploads/2022/06/Saber_of_Xebec-1024x853a.png",
       "jollyRoger": "https://static.wikia.nocookie.net/17af47f0-bbfa-446a-8cfb-ca5855d8e4c1"
     },
     {
