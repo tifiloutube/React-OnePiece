@@ -6,12 +6,13 @@
     justify-content: space-between;
     align-items: center;
 }
-
 .navbar__title {
     margin: 0;
     font-family: 'Pirate', sans-serif;
 }
-
+img {
+    width: 8%;
+}
 .navbar__links {
     font-size: 18px;
 }
