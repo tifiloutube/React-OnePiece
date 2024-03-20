@@ -7,30 +7,44 @@
           "nom": "Monkey D. Luffy",
           "poste": "Capitaine",
           "fruitDuDemon": "Gomu Gomu no Mi",
+          "arme": "Tout son corps",
+          "haki": "Les trois formes",
           "prime": "3,000,000,000",
           "commentaire": "Peut rendre son corps élastique, maîtrise les trois types de Haki. Rêve de devenir le Roi des Pirates."
         },
         {
           "nom": "Roronoa Zoro",
           "poste": "Épéiste",
+          "fruitDuDemon": "Aucun",
+          "arme": "Sabres",
+          "haki": "Armement, Haki des Rois",
           "prime": "1,111,000,000",
           "commentaire": "Utilise le Santoryu, maîtrise deux types de Haki. Rêve de devenir le plus grand sabreur du monde."
         },
         {
           "nom": "Nami",
           "poste": "Navigatrice",
+          "fruitDuDemon": "Aucun",
+          "arme": "Baguette Climatique",
+          "haki": "aucun",
           "prime": "366,000,000",
           "commentaire": "Experte en navigation et météorologie. Utilise Zeus pour contrôler la météo. Rêve de tracer une carte complète du monde."
         },
         {
-          "nom": "Usopp",
+          "nom": "Go D. Usopp",
           "poste": "Canonnier",
+          "fruitDuDemon": "Aucun",
+          "arme": "Lance pierre",
+          "haki": "Observation",
           "prime": "500,000,000",
           "commentaire": "Tireur d'élite, maîtrise le Haki de l'Observation. Rêve de devenir un valeureux guerrier des mers."
         },
         {
           "nom": "Vinsmoke Sanji",
           "poste": "Cuisinier",
+          "fruitDuDemon": "Aucun",
+          "arme": "Jambes",
+          "haki": "Armement, Observation",
           "prime": "1,032,000,000",
           "commentaire": "Maîtrise le Diable Jambe, techniques culinaires avancées. Rêve de trouver All Blue."
         },
@@ -38,6 +52,8 @@
           "nom": "Tony Tony Chopper",
           "poste": "Médecin",
           "fruitDuDemon": "Hito Hito no Mi",
+          "arme": "Tout son corps",
+          "haki": "aucun",
           "prime": "1,000",
           "commentaire": "Peut se transformer grâce au Hito Hito no Mi et Rumble Ball. Rêve de guérir toutes les maladies."
         },
@@ -45,12 +61,17 @@
           "nom": "Nico Robin",
           "poste": "Archéologue",
           "fruitDuDemon": "Hana Hana no Mi",
+          "arme": "Les parties de son corps qu'elle fait pousser",
+          "haki": "Armement",
           "prime": "930,000,000",
           "commentaire": "Peut faire pousser des parties de son corps, cherche à découvrir l'histoire perdue."
         },
         {
           "nom": "Franky",
           "poste": "Charpentier",
+          "fruitDuDemon": "Aucun",
+          "arme": "Arsenal intégré dans son corps",
+          "haki": "Aucun",
           "prime": "394,000,000",
           "commentaire": "Cyborg avec un corps renforcé et un arsenal intégré. Rêve de naviguer autour du monde sur un navire qu'il a conçu."
         },
@@ -58,12 +79,17 @@
           "nom": "Brook",
           "poste": "Musicien",
           "fruitDuDemon": "Yomi Yomi no Mi",
+          "arme": "Sabre",
+          "haki": "Aucun",
           "prime": "383,000,000",
           "commentaire": "Squelette vivant grâce au Yomi Yomi no Mi, excellent épéiste et musicien. Rêve de revoir Laboon."
         },
         {
           "nom": "Jimbe",
           "poste": "Timonier",
+          "fruitDuDemon": "Yomi Yomi no Mi",
+          "arme": "Karaté des hommes-poissons",
+          "haki": "Armement, Observation",
           "prime": "1,100,000,000",
           "commentaire": "Expert en karaté des hommes-poissons, maîtrise deux types de Haki. Rêve de cohabitation pacifique entre humains et hommes-poissons."
         }
