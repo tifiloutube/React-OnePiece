@@ -4,22 +4,34 @@ import data from './Wiki.json';
 import './WikiPage.css';
 
 const WikiPage = () => {
-  const [equipages, setEquipages] = useState([]);
-
-  useEffect(() => {
-    setEquipages(data.equipages);
-  }, []);
-
-  return (
-    <div>
-      <h1 className="page-title">Wiki One Piece</h1>
-      <section className="wrapper">
-        {equipages.map((equipage, index) => (
-            <Equipage key={index} equipage={equipage} />
+    const [equipages, setEquipages] = useState([]);
+    const [searchTerm, setSearchTerm] = useState('');
+    useEffect(() => {
+      setEquipages(data.equipages);
+    }, []);
+    const handleSearchClick = (e) => {
+      e.stopPropagation();
+    };
+    const filteredEquipages = equipages.filter(equipage =>
+      equipage.membres.some(membre =>
+        membre.nom.toLowerCase().includes(searchTerm.toLowerCase())
+      )
+    );
+    return (
+      <div className="equipages-container" class="equipages-container">
+        <h1 className="page-title">Wiki One Piece</h1>
+        <input
+          className="search-input"
+          type="text"
+          placeholder="Rechercher un Equipage..."
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+          onClick={handleSearchClick}
+        />
+        {filteredEquipages.map((equipage, index) => (
+          <Equipage key={index} equipage={equipage} />
         ))}
-      </section>
-    </div>
-  );
-};
-
-export default WikiPage;
+      </div>
+    );
+  };
+  export default WikiPage;

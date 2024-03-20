@@ -28,6 +28,7 @@
           "arme": "Baguette Climatique",
           "haki": "aucun",
           "prime": "366,000,000",
+          "img": "https://www.mugiwara-shop.com/wp-content/uploads/2023/01/Sans-titre-2.png.webp",
           "commentaire": "Experte en navigation et météorologie. Utilise Zeus pour contrôler la météo. Rêve de tracer une carte complète du monde."
         },
         {
@@ -363,8 +364,8 @@
         }
       ],
       "nomBateau": "Moby Dick",
-      "imageBateau": "https://fakeurl.com/mobydick_image",
-      "jollyRoger": "https://fakeurl.com/jollyroger_barbe_blanche"
+      "imageBateau": "https://pm1.aminoapps.com/6827/0c6bda5ce30c49131d95d6b9220f34866465444ev2_00.jpg",
+      "jollyRoger": "https://boutique-one-piece.com/wp-content/uploads/2022/09/Drapeau-Edward-Newgate.jpg"
     }
   ]
 }

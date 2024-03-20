@@ -1,11 +1,13 @@
 .equipage-container {
-    display: flex;
-    justify-content: space-between;
     border: 1px solid #ccc;
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
     background-color: #fff;
+  }
+  .imgDrapeau{
+    width: 10%;
+    border-radius: 15px;
   }
   .equipage-title {
     font-size: 24px;
@@ -22,9 +24,18 @@
   .member-list {
     list-style-type: none;
     padding: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
   }
   .member-item {
     margin-bottom: 15px;
+    border: solid 2px black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    backdrop-filter: blur(2px);
+    backdrop-filter: opacity(20%);
   }
   .member-name {
     font-size: 18px;
@@ -32,4 +43,7 @@
   }
   .member-details {
     font-size: 14px;
+  }
+  .member-image {
+    background-image: cover;
   }
