@@ -1,0 +1,46 @@
+.equipage-container {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+  }
+  .imgDrapeau{
+    width: 10%;
+    border-radius: 15px;
+  }
+  .equipage-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .equipage-info {
+    margin-bottom: 15px;
+  }
+  .equipage-info img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  .member-list {
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+  }
+  .member-item {
+    margin-bottom: 15px;
+    border: solid 2px black;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .member-name {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  .member-details {
+    font-size: 14px;
+  }
+  .member-image {
+    background-image: cover;
+  }

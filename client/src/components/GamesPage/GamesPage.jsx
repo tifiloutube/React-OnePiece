@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Scoreboard from '../Scoreboard/Scoreboard';
 import Hangman from '../MiniGames/Hangman/Hangman';
 import QCM from "../MiniGames/QCM/Qcm";
-import DevineLePersonnage from "../MiniGames/DevineLePersonnage";
+import DevineLePersonnage from "../MiniGames/DevineLePersonnage/DevineLePersonnage";
 import './GamesPage.css';
 
 function GamesPage({ players, setPlayers }) {

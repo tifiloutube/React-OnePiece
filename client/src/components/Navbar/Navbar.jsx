@@ -1,11 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
+import luffyHat from '../../Image/luffyhat-removebg-preview.png';
 
 function Navbar() {
     return (
         <nav className="navbar">
-            <h1 className="navbar__title">One Piece Mini Games</h1>
+            <img src={luffyHat} alt="Luffy Hat" />
             <div className="navbar__links">
                 <Link to="/" className="navbar__link">Home</Link>
                 <span className="navbar__separator">|</span>
