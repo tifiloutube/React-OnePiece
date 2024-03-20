@@ -75,11 +75,186 @@
           "nom": "Marshall D. Teach",
           "poste": "Capitaine",
           "fruitDuDemon": "Yami Yami no Mi, Gura Gura no Mi",
-          "prime": "2,247,600,000"
+          "prime": "3.996.000.000"
+        },
+        {
+          "nom": "Jesus Burgess",
+          "poste": "commandant de la 1ère flotte",
+          "fruitDuDemon": "Riki Riki no Mi",
+          "prime": "supérieur à 20.000.000"
+        },
+        {
+          "nom": "Shiliew",
+          "poste": "commandant de la 2ème flotte",
+          "fruitDuDemon": "Suke Suke no Mi",
+          "prime": "Inconnu"
+        },
+        {
+          "nom": "Van Augur",
+          "poste": "commandant de la 3ème flotte",
+          "fruitDuDemon": "Wapu Wapu no Mi",
+          "prime": "Inconnu"
+        },
+        {
+          "nom": "Avalo Pizarro",
+          "poste": "commandant de la 4ème flotte",
+          "fruitDuDemon": "Shima Shima no Mi",
+          "prime": "Inconnu"
+        },
+        {
+          "nom": "Laffitte",
+          "poste": "commandant de la 5ème flotte",
+          "fruitDuDemon": "Inconnu",
+          "prime": "Supérieur à 42.200.000"
+        },
+        {
+          "nom": "Catarina Devon",
+          "poste": "commandant de la 6ème flotte",
+          "fruitDuDemon": "Inu Inu no Mi, modèle Kyubi no Kitsune",
+          "prime": "Inconnu"
+        },
+        {
+          "nom": "Sanjuan Wolf",
+          "poste": "commandant de la 7ème flotte",
+          "fruitDuDemon": "Deka Deka no Mi",
+          "prime": "Inconnu"
+        },
+        {
+          "nom": "Vasco Shot",
+          "poste": "commandant de la 8ème flotte",
+          "fruitDuDemon": "Gabu Gabu no Mi",
+          "prime": "Inconnu"
+        },
+        {
+          "nom": "Doc Q",
+          "poste": "commandant de la 9ème flotte",
+          "fruitDuDemon": "Shiku Shiku no Mi",
+          "prime": "Supérieur à 72.000.000"
+        },
+        {
+          "nom": "Kuzan",
+          "poste": "commandant de la 10ème flotte",
+          "fruitDuDemon": " Hie Hie no Mi",
+          "prime": "Inconnu"
         }
       ],
       "nomBateau": "Saber of Xebec",
-      "jollyRoger": "https://fakeurl.com/jollyroger_barbe_noire"
+      "imageBateau" : "https://www.opfanpage.com/wp-content/uploads/2022/06/Saber_of_Xebec-1024x853a.png",
+      "jollyRoger": "https://static.wikia.nocookie.net/17af47f0-bbfa-446a-8cfb-ca5855d8e4c1"
+    },
+    {
+      "nomEquipage": "Barbe Blanche",
+      "membres": [
+        {
+          "nom": "Edward Newgate (Barbe Blanche)",
+          "poste": "Capitaine",
+          "fruitDuDemon": "Gura Gura no Mi",
+          "arme": "Bisento",
+          "haki": "Les trois formes",
+          "prime": "5,046,000,000",
+          "commentaire": "Il a appartenu à l'équipage des ROCKS aux côtés de Big Mom et Kaidou."
+        },
+        {
+          "nom": "Marco",
+          "poste": "Capitaine de la 1ère flotte",
+          "fruitDuDemon": "Tori Tori no Mi, modèle Phoenix",
+          "arme": "Katana",
+          "haki": "Armement, résiste au Haki des Rois",
+          "prime": "1,374,000,000"
+        },
+        {
+          "nom": "Portgas D. Ace",
+          "poste": "Capitaine de la 2ème flotte",
+          "fruitDuDemon": "Mera Mera no Mi",
+          "arme": "Couteau",
+          "haki": "Armement, Haki des Rois",
+          "prime": "550,000,000"
+        },
+        {
+          "nom": "Jozu",
+          "poste": "Capitaine de la 3ème flotte",
+          "fruitDuDemon": "Kira Kira no Mi",
+          "haki": "Armement, résiste à celui des Rois"
+        },
+        {
+          "nom": "Thatch",
+          "poste": "Capitaine de la 4ème flotte",
+          "arme": "Deux sabres",
+          "commentaire": "Il avait trouvé le Yami Yami No Mi avant que Teach ne le tue."
+        },
+        {
+          "nom": "Vista",
+          "poste": "Capitaine de la 5ème flotte",
+          "arme": "Deux sabres",
+          "commentaire": "Très connu parmi les épéistes."
+        },
+        {
+          "nom": "Blamenco",
+          "poste": "Capitaine de la 6ème flotte",
+          "fruitDuDemon": "Poke Poke no Mi",
+          "arme": "Marteau géant"
+        },
+        {
+          "nom": "Rakuyo",
+          "poste": "Capitaine de la 7ème flotte",
+          "arme": "Fléau qui a mangé un Fruit du démon Zoan non-nommé"
+        },
+        {
+          "nom": "Namur",
+          "poste": "Capitaine de la 8ème flotte",
+          "commentaire": "Homme-poisson requin, 20 fois plus fort dans l'eau."
+        },
+        {
+          "nom": "Blenheim",
+          "poste": "Capitaine de la 9ème flotte",
+          "arme": "Épée",
+          "commentaire": "Capable de porter Joz."
+        },
+        {
+          "nom": "Curiel",
+          "poste": "Capitaine de la 10ème flotte",
+          "arme": "Deux bazookas et deux pistolets"
+        },
+        {
+          "nom": "Kingdew",
+          "poste": "Capitaine de la 11ème flotte",
+          "arme": "Gants en acier"
+        },
+        {
+          "nom": "Haruta",
+          "poste": "Capitaine de la 12ème flotte",
+          "arme": "Épée et une lance",
+          "commentaire": "Peut couper des objets en acier."
+        },
+        {
+          "nom": "Atmos",
+          "poste": "Capitaine de la 13ème flotte",
+          "arme": "Deux épées",
+          "commentaire": "Les balles de fusil ne lui font aucun effet."
+        },
+        {
+          "nom": "Speed Jill",
+          "poste": "Capitaine de la 14ème flotte",
+          "arme": "Lance et bouclier",
+          "commentaire": "Mouvements extrêmement rapides."
+        },
+        {
+          "nom": "Fossa",
+          "poste": "Capitaine de la 15ème flotte",
+          "arme": "Épée enflammée",
+          "commentaire": "Utilise une épée qui peut s'enflammer."
+        },
+        {
+          "nom": "Izo",
+          "poste": "Commandant de la 16ème flotte",
+          "arme": "Deux pistolets et une épée",
+          "prime": "510,000,000",
+          "commentaire": "Fut un vassal de Kozuki Oden."
+        }
+      ],
+      "nomBateau": "Moby Dick",
+      "imageBateau": "https://fakeurl.com/mobydick_image",
+      "jollyRoger": "https://fakeurl.com/jollyroger_barbe_blanche"
     }
   ]
 }
