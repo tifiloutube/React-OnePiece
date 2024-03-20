@@ -7,66 +7,96 @@
           "nom": "Monkey D. Luffy",
           "poste": "Capitaine",
           "fruitDuDemon": "Gomu Gomu no Mi",
-          "prime": "3 000 000 000"
+          "arme": "Tout son corps",
+          "haki": "Les trois formes",
+          "prime": "3,000,000,000",
+          "commentaire": "Peut rendre son corps élastique, maîtrise les trois types de Haki. Rêve de devenir le Roi des Pirates."
         },
         {
           "nom": "Roronoa Zoro",
           "poste": "Épéiste",
           "fruitDuDemon": "Aucun",
-          "prime": "1 111 000 000"
+          "arme": "Sabres",
+          "haki": "Armement, Haki des Rois",
+          "prime": "1,111,000,000",
+          "commentaire": "Utilise le Santoryu, maîtrise deux types de Haki. Rêve de devenir le plus grand sabreur du monde."
         },
         {
           "nom": "Nami",
           "poste": "Navigatrice",
           "fruitDuDemon": "Aucun",
-          "prime": "366 000 000"
+          "arme": "Baguette Climatique",
+          "haki": "aucun",
+          "prime": "366,000,000",
+          "commentaire": "Experte en navigation et météorologie. Utilise Zeus pour contrôler la météo. Rêve de tracer une carte complète du monde."
         },
         {
-          "nom": "Usopp",
+          "nom": "Go D. Usopp",
           "poste": "Canonnier",
           "fruitDuDemon": "Aucun",
-          "prime": "500 000 000"
+          "arme": "Lance pierre",
+          "haki": "Observation",
+          "prime": "500,000,000",
+          "commentaire": "Tireur d'élite, maîtrise le Haki de l'Observation. Rêve de devenir un valeureux guerrier des mers."
         },
         {
           "nom": "Vinsmoke Sanji",
           "poste": "Cuisinier",
-          "fruitDuDemon": "Gomu Gomu no Mi",
-          "prime": "1 032 000 000"
+          "fruitDuDemon": "Aucun",
+          "arme": "Jambes",
+          "haki": "Armement, Observation",
+          "prime": "1,032,000,000",
+          "commentaire": "Maîtrise le Diable Jambe, techniques culinaires avancées. Rêve de trouver All Blue."
         },
         {
           "nom": "Tony Tony Chopper",
           "poste": "Médecin",
           "fruitDuDemon": "Hito Hito no Mi",
-          "prime": "1000"
+          "arme": "Tout son corps",
+          "haki": "aucun",
+          "prime": "1,000",
+          "commentaire": "Peut se transformer grâce au Hito Hito no Mi et Rumble Ball. Rêve de guérir toutes les maladies."
         },
         {
           "nom": "Nico Robin",
           "poste": "Archéologue",
           "fruitDuDemon": "Hana Hana no Mi",
-          "prime": "930 000 000"
+          "arme": "Les parties de son corps qu'elle fait pousser",
+          "haki": "Armement",
+          "prime": "930,000,000",
+          "commentaire": "Peut faire pousser des parties de son corps, cherche à découvrir l'histoire perdue."
         },
         {
           "nom": "Franky",
           "poste": "Charpentier",
           "fruitDuDemon": "Aucun",
-          "prime": "394 000 000"
+          "arme": "Arsenal intégré dans son corps",
+          "haki": "Aucun",
+          "prime": "394,000,000",
+          "commentaire": "Cyborg avec un corps renforcé et un arsenal intégré. Rêve de naviguer autour du monde sur un navire qu'il a conçu."
         },
         {
           "nom": "Brook",
           "poste": "Musicien",
           "fruitDuDemon": "Yomi Yomi no Mi",
-          "prime": "383 000 000"
+          "arme": "Sabre",
+          "haki": "Aucun",
+          "prime": "383,000,000",
+          "commentaire": "Squelette vivant grâce au Yomi Yomi no Mi, excellent épéiste et musicien. Rêve de revoir Laboon."
         },
         {
           "nom": "Jimbe",
           "poste": "Timonier",
-          "fruitDuDemon": "Aucun",
-          "prime": "1 100 000 000"
+          "fruitDuDemon": "Yomi Yomi no Mi",
+          "arme": "Karaté des hommes-poissons",
+          "haki": "Armement, Observation",
+          "prime": "1,100,000,000",
+          "commentaire": "Expert en karaté des hommes-poissons, maîtrise deux types de Haki. Rêve de cohabitation pacifique entre humains et hommes-poissons."
         }
       ],
       "nomBateau": "Thousand Sunny",
-      "imageBateau": "https://pm1.aminoapps.com/6798/f4c514e9b93104f1f302245fe724c90be1b45851v2_00.jpg",
-      "jollyRoger": "https://ih0.redbubble.net/image.4633589145.6165/raf,360x360,075,t,fafafa:ca443f4786.jpg"
+      "imageBateau": "https://pm1.narvii.com/6798/f4c514e9b93104f1f302245fe724c90be1b45851v2_hq.jpg",
+      "jollyRoger": "https://ih1.redbubble.net/image.4633589145.6165/raf,360x360,075,t,fafafa:ca443f4786.jpg"
     },
     {
       "nomEquipage": "Barbe Noire",
@@ -75,11 +105,266 @@
           "nom": "Marshall D. Teach",
           "poste": "Capitaine",
           "fruitDuDemon": "Yami Yami no Mi, Gura Gura no Mi",
-          "prime": "2,247,600,000"
+          "arme": "Griffes, pistolets",
+          "haki": "Armement, Observation",
+          "prime": "3,996,000,000",
+          "commentaire": "Ancien Shichibukai, membre de L'Équipage de Barbe Blanche, l'un des 4 Yonkou."
+        },
+        {
+          "nom": "Jesus Burgess",
+          "poste": "Commandant de la 1ère flotte, Timonier",
+          "fruitDuDemon": "Riki Riki no Mi",
+          "arme": "Deux pistolets, dague",
+          "haki": "Observation, Armement",
+          "prime": "Supérieur à 20,000,000",
+          "commentaire": "Force physique impressionnante, finaliste d'un tournoi au Colisée Corrida."
+        },
+        {
+          "nom": "Shiliew",
+          "poste": "Commandant de la 2ème flotte",
+          "fruitDuDemon": "Suke Suke no Mi",
+          "arme": "Sabre 'Raiu'",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Ancien gardien en chef d'Impel Down."
+        },
+        {
+          "nom": "Van Augur",
+          "poste": "Commandant de la 3ème flotte, Vigie",
+          "fruitDuDemon": "Wapu Wapu no Mi",
+          "arme": "Fusil 'Senriku'",
+          "haki": "Inconnu",
+          "prime": "Supérieur à 64,000,000",
+          "commentaire": "Tireur d'élite, capable de viser juste à très grande distance."
+        },
+        {
+          "nom": "Avalo Pizarro",
+          "poste": "Commandant de la 4ème flotte",
+          "fruitDuDemon": "Shima Shima no Mi",
+          "arme": "Inconnu",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Ancien prisonnier du niveau 6 d'Impel Down."
+        },
+        {
+          "nom": "Laffitte",
+          "poste": "Commandant de la 5ème flotte, Navigateur",
+          "fruitDuDemon": "Inconnu",
+          "arme": "Inconnu",
+          "haki": "Inconnu",
+          "prime": "Supérieur à 42,200,000",
+          "commentaire": "Ancien shériff, peut faire pousser des ailes et voler, hypnotiseur."
+        },
+        {
+          "nom": "Catarina Devon",
+          "poste": "Commandant de la 6ème flotte",
+          "fruitDuDemon": "Inu Inu no Mi, modèle Kyubi no Kitsune",
+          "arme": "Fouet, lance, sabre",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Ancienne prisonnière du niveau 6 d'Impel Down."
+        },
+        {
+          "nom": "Sanjuan Wolf",
+          "poste": "Commandant de la 7ème flotte",
+          "fruitDuDemon": "Deka Deka no Mi",
+          "arme": "Inconnu",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Géant, ancien prisonnier du niveau 6 d'Impel Down, résistant à la chaleur."
+        },
+        {
+          "nom": "Vasco Shot",
+          "poste": "Commandant de la 8ème flotte",
+          "fruitDuDemon": "Gabu Gabu no Mi",
+          "arme": "Deux pistolets",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Ancien prisonnier du niveau 6 d'Impel Down."
+        },
+        {
+          "nom": "Doc Q",
+          "poste": "Commandant de la 9ème flotte, Médecin",
+          "fruitDuDemon": "Shiku Shiku no Mi",
+          "arme": "Faux à double tranchant",
+          "haki": "Inconnu",
+          "prime": "Supérieur à 72,000,000",
+          "commentaire": "Possède une haute vitesse."
+        },
+        {
+          "nom": "Kuzan",
+          "poste": "Commandant de la 10ème flotte",
+          "fruitDuDemon": "Hie Hie no Mi",
+          "arme": "Pouvoir de son fruit",
+          "haki": "Armement, Observation",
+          "prime": "Inconnu",
+          "commentaire": "Ancien amiral de la Marine, dernier capitaine à rejoindre l'équipage."
         }
       ],
       "nomBateau": "Saber of Xebec",
-      "jollyRoger": "https://fakeurl.com/jollyroger_barbe_noire"
+      "imageBateau": "https://www.opfanpage.com/wp-content/uploads/2022/06/Saber_of_Xebec-1024x853a.png",
+      "jollyRoger": "https://static.wikia.nocookie.net/17af47f0-bbfa-446a-8cfb-ca5855d8e4c1"
+    },
+    {
+      "nomEquipage": "Barbe Blanche",
+      "membres": [
+        {
+          "nom": "Edward Newgate (Barbe Blanche)",
+          "poste": "Capitaine",
+          "fruitDuDemon": "Gura Gura no Mi",
+          "arme": "Bisento",
+          "haki": "Les trois formes",
+          "prime": "5,046,000,000",
+          "commentaire": "Il a appartenu à l'équipage des ROCKS aux côtés de Big Mom et Kaidou."
+        },
+        {
+          "nom": "Marco",
+          "poste": "Capitaine de la 1ère flotte",
+          "fruitDuDemon": "Tori Tori no Mi, modèle Phoenix",
+          "arme": "Katana",
+          "haki": "Armement, résiste au Haki des Rois",
+          "prime": "1,374,000,000",
+          "commentaire": "A fait une apparition dans Harry Potter au côté de Albus Dumbledore"
+        },
+        {
+          "nom": "Portgas D. Ace",
+          "poste": "Capitaine de la 2ème flotte",
+          "fruitDuDemon": "Mera Mera no Mi",
+          "arme": "Couteau",
+          "haki": "Armement, Haki des Rois",
+          "prime": "550,000,000",
+          "commentaire": "Est devenu un donuts"
+        },
+        {
+          "nom": "Jozu",
+          "poste": "Capitaine de la 3ème flotte",
+          "fruitDuDemon": "Kira Kira no Mi",
+          "arme": "Pouvoir de son fruit, son corps",
+          "haki": "Armement",
+          "prime": "Inconnu",
+          "commentaire": "On le surnomme 'Diamond Joz' en référence à son fruit du démon lui permettant de transformer son corps en diamant."
+        },
+        {
+          "nom": "Thatch",
+          "poste": "Capitaine de la 4ème flotte",
+          "fruitDuDemon": "Aucun",
+          "arme": "Deux sabres",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Il avait trouvé le Yami Yami No Mi avant que Teach ne le tue."
+        },
+        {
+          "nom": "Vista",
+          "poste": "Capitaine de la 5ème flotte",
+          "fruitDuDemon": "Aucun",
+          "arme": "Deux sabres",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Très connu parmi les épéistes."
+        },
+        {
+          "nom": "Blamenco",
+          "poste": "Capitaine de la 6ème flotte",
+          "fruitDuDemon": "Poke Poke no Mi",
+          "arme": "Marteau géant",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "il mange bien à la cantine"
+        },
+        {
+          "nom": "Rakuyo",
+          "poste": "Capitaine de la 7ème flotte",
+          "fruitDuDemon": "Aucun",
+          "arme": "Fléau qui a mangé un Fruit du démon Zoan non-nommé",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "belle moustache"
+        },
+        {
+          "nom": "Namur",
+          "poste": "Capitaine de la 8ème flotte",
+          "fruitDuDemon": "Aucun",
+          "arme": "Karaté des homme-poisson",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Homme-poisson requin, 20 fois plus fort dans l'eau."
+        },
+        {
+          "nom": "Blenheim",
+          "poste": "Capitaine de la 9ème flotte",
+          "fruitDuDemon": "Aucun",
+          "arme": "Épée",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Capable de porter Joz."
+        },
+        {
+          "nom": "Curiel",
+          "poste": "Capitaine de la 10ème flotte",
+          "arme": "Deux bazookas et deux pistolets",
+          "fruitDuDemon": "Aucun",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Qui se souvient de lui ?"
+        },
+        {
+          "nom": "Kingdew",
+          "poste": "Capitaine de la 11ème flotte",
+          "arme": "Gants en acier",
+          "fruitDuDemon": "Aucun",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Qui se souvient de lui ?"
+        },
+        {
+          "nom": "Haruta",
+          "poste": "Capitaine de la 12ème flotte",
+          "arme": "Épée et une lance",
+          "fruitDuDemon": "Aucun",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Peut couper des objets en acier."
+        },
+        {
+          "nom": "Atmos",
+          "poste": "Capitaine de la 13ème flotte",
+          "arme": "Deux épées",
+          "fruitDuDemon": "Aucun",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Les balles de fusil ne lui font aucun effet."
+        },
+        {
+          "nom": "Speed Jill",
+          "poste": "Capitaine de la 14ème flotte",
+          "arme": "Lance et bouclier",
+          "fruitDuDemon": "Aucun",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Mouvements extrêmement rapides."
+        },
+        {
+          "nom": "Fossa",
+          "poste": "Capitaine de la 15ème flotte",
+          "arme": "Épée enflammée",
+          "fruitDuDemon": "Aucun",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Utilise une épée qui peut s'enflammer."
+        },
+        {
+          "nom": "Izo",
+          "poste": "Commandant de la 16ème flotte",
+          "arme": "Deux pistolets et une épée",
+          "fruitDuDemon": "Aucun",
+          "haki": "Armement, observation",
+          "prime": "510,000,000",
+          "commentaire": "Fut un vassal de Kozuki Oden."
+        }
+      ],
+      "nomBateau": "Moby Dick",
+      "imageBateau": "https://fakeurl.com/mobydick_image",
+      "jollyRoger": "https://fakeurl.com/jollyroger_barbe_blanche"
     }
   ]
 }
