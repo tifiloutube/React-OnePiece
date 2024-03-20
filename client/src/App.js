@@ -3,6 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar/Navbar';
 import HomePage from './components/HomePage/HomePage';
 import GamesPage from './components/GamesPage/GamesPage';
+import WikiPage from './components/WikiPage/WikiPage';
 
 function App() {
     const [players, setPlayers] = useState([]);
@@ -18,6 +19,7 @@ function App() {
             <Routes>
                 <Route path="/" element={<HomePage onPlayersSet={handlePlayersSet} players={players} />} />
                 <Route path="/jeux" element={<GamesPage players={players} setPlayers={setPlayers} />} />
+                <Route path="/wiki" element={<WikiPage />} />
             </Routes>
         </div>
     );
