@@ -124,6 +124,7 @@
           "poste": "Commandant de la 2ème flotte",
           "fruitDuDemon": "Suke Suke no Mi",
           "arme": "Sabre 'Raiu'",
+          "haki": "Inconnu",
           "prime": "Inconnu",
           "commentaire": "Ancien gardien en chef d'Impel Down."
         },
@@ -132,6 +133,7 @@
           "poste": "Commandant de la 3ème flotte, Vigie",
           "fruitDuDemon": "Wapu Wapu no Mi",
           "arme": "Fusil 'Senriku'",
+          "haki": "Inconnu",
           "prime": "Supérieur à 64,000,000",
           "commentaire": "Tireur d'élite, capable de viser juste à très grande distance."
         },
@@ -139,12 +141,17 @@
           "nom": "Avalo Pizarro",
           "poste": "Commandant de la 4ème flotte",
           "fruitDuDemon": "Shima Shima no Mi",
+          "arme": "Inconnu",
+          "haki": "Inconnu",
           "prime": "Inconnu",
           "commentaire": "Ancien prisonnier du niveau 6 d'Impel Down."
         },
         {
           "nom": "Laffitte",
           "poste": "Commandant de la 5ème flotte, Navigateur",
+          "fruitDuDemon": "Inconnu",
+          "arme": "Inconnu",
+          "haki": "Inconnu",
           "prime": "Supérieur à 42,200,000",
           "commentaire": "Ancien shériff, peut faire pousser des ailes et voler, hypnotiseur."
         },
@@ -153,6 +160,7 @@
           "poste": "Commandant de la 6ème flotte",
           "fruitDuDemon": "Inu Inu no Mi, modèle Kyubi no Kitsune",
           "arme": "Fouet, lance, sabre",
+          "haki": "Inconnu",
           "prime": "Inconnu",
           "commentaire": "Ancienne prisonnière du niveau 6 d'Impel Down."
         },
@@ -160,6 +168,8 @@
           "nom": "Sanjuan Wolf",
           "poste": "Commandant de la 7ème flotte",
           "fruitDuDemon": "Deka Deka no Mi",
+          "arme": "Inconnu",
+          "haki": "Inconnu",
           "prime": "Inconnu",
           "commentaire": "Géant, ancien prisonnier du niveau 6 d'Impel Down, résistant à la chaleur."
         },
@@ -168,6 +178,7 @@
           "poste": "Commandant de la 8ème flotte",
           "fruitDuDemon": "Gabu Gabu no Mi",
           "arme": "Deux pistolets",
+          "haki": "Inconnu",
           "prime": "Inconnu",
           "commentaire": "Ancien prisonnier du niveau 6 d'Impel Down."
         },
@@ -176,6 +187,7 @@
           "poste": "Commandant de la 9ème flotte, Médecin",
           "fruitDuDemon": "Shiku Shiku no Mi",
           "arme": "Faux à double tranchant",
+          "haki": "Inconnu",
           "prime": "Supérieur à 72,000,000",
           "commentaire": "Possède une haute vitesse."
         },
@@ -183,6 +195,7 @@
           "nom": "Kuzan",
           "poste": "Commandant de la 10ème flotte",
           "fruitDuDemon": "Hie Hie no Mi",
+          "arme": "Pouvoir de son fruit",
           "haki": "Armement, Observation",
           "prime": "Inconnu",
           "commentaire": "Ancien amiral de la Marine, dernier capitaine à rejoindre l'équipage."
@@ -210,7 +223,8 @@
           "fruitDuDemon": "Tori Tori no Mi, modèle Phoenix",
           "arme": "Katana",
           "haki": "Armement, résiste au Haki des Rois",
-          "prime": "1,374,000,000"
+          "prime": "1,374,000,000",
+          "commentaire": "A fait une apparition dans Harry Potter au côté de Albus Dumbledore"
         },
         {
           "nom": "Portgas D. Ace",
@@ -218,86 +232,132 @@
           "fruitDuDemon": "Mera Mera no Mi",
           "arme": "Couteau",
           "haki": "Armement, Haki des Rois",
-          "prime": "550,000,000"
+          "prime": "550,000,000",
+          "commentaire": "Est devenu un donuts"
         },
         {
           "nom": "Jozu",
           "poste": "Capitaine de la 3ème flotte",
           "fruitDuDemon": "Kira Kira no Mi",
-          "haki": "Armement, résiste à celui des Rois"
+          "arme": "Pouvoir de son fruit, son corps",
+          "haki": "Armement",
+          "prime": "Inconnu",
+          "commentaire": "On le surnomme 'Diamond Joz' en référence à son fruit du démon lui permettant de transformer son corps en diamant."
         },
         {
           "nom": "Thatch",
           "poste": "Capitaine de la 4ème flotte",
+          "fruitDuDemon": "Aucun",
           "arme": "Deux sabres",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
           "commentaire": "Il avait trouvé le Yami Yami No Mi avant que Teach ne le tue."
         },
         {
           "nom": "Vista",
           "poste": "Capitaine de la 5ème flotte",
+          "fruitDuDemon": "Aucun",
           "arme": "Deux sabres",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
           "commentaire": "Très connu parmi les épéistes."
         },
         {
           "nom": "Blamenco",
           "poste": "Capitaine de la 6ème flotte",
           "fruitDuDemon": "Poke Poke no Mi",
-          "arme": "Marteau géant"
+          "arme": "Marteau géant",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "il mange bien à la cantine"
         },
         {
           "nom": "Rakuyo",
           "poste": "Capitaine de la 7ème flotte",
-          "arme": "Fléau qui a mangé un Fruit du démon Zoan non-nommé"
+          "fruitDuDemon": "Aucun",
+          "arme": "Fléau qui a mangé un Fruit du démon Zoan non-nommé",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "belle moustache"
         },
         {
           "nom": "Namur",
           "poste": "Capitaine de la 8ème flotte",
+          "fruitDuDemon": "Aucun",
+          "arme": "Karaté des homme-poisson",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
           "commentaire": "Homme-poisson requin, 20 fois plus fort dans l'eau."
         },
         {
           "nom": "Blenheim",
           "poste": "Capitaine de la 9ème flotte",
+          "fruitDuDemon": "Aucun",
           "arme": "Épée",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
           "commentaire": "Capable de porter Joz."
         },
         {
           "nom": "Curiel",
           "poste": "Capitaine de la 10ème flotte",
-          "arme": "Deux bazookas et deux pistolets"
+          "arme": "Deux bazookas et deux pistolets",
+          "fruitDuDemon": "Aucun",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Qui se souvient de lui ?"
         },
         {
           "nom": "Kingdew",
           "poste": "Capitaine de la 11ème flotte",
-          "arme": "Gants en acier"
+          "arme": "Gants en acier",
+          "fruitDuDemon": "Aucun",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
+          "commentaire": "Qui se souvient de lui ?"
         },
         {
           "nom": "Haruta",
           "poste": "Capitaine de la 12ème flotte",
           "arme": "Épée et une lance",
+          "fruitDuDemon": "Aucun",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
           "commentaire": "Peut couper des objets en acier."
         },
         {
           "nom": "Atmos",
           "poste": "Capitaine de la 13ème flotte",
           "arme": "Deux épées",
+          "fruitDuDemon": "Aucun",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
           "commentaire": "Les balles de fusil ne lui font aucun effet."
         },
         {
           "nom": "Speed Jill",
           "poste": "Capitaine de la 14ème flotte",
           "arme": "Lance et bouclier",
+          "fruitDuDemon": "Aucun",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
           "commentaire": "Mouvements extrêmement rapides."
         },
         {
           "nom": "Fossa",
           "poste": "Capitaine de la 15ème flotte",
           "arme": "Épée enflammée",
+          "fruitDuDemon": "Aucun",
+          "haki": "Inconnu",
+          "prime": "Inconnu",
           "commentaire": "Utilise une épée qui peut s'enflammer."
         },
         {
           "nom": "Izo",
           "poste": "Commandant de la 16ème flotte",
           "arme": "Deux pistolets et une épée",
+          "fruitDuDemon": "Aucun",
+          "haki": "Armement, observation",
           "prime": "510,000,000",
           "commentaire": "Fut un vassal de Kozuki Oden."
         }
