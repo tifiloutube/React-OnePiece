@@ -13,9 +13,11 @@ const WikiPage = () => {
   return (
     <div>
       <h1 className="page-title">Wiki One Piece</h1>
-      {equipages.map((equipage, index) => (
-        <Equipage key={index} equipage={equipage} />
-      ))}
+      <section className="wrapper">
+        {equipages.map((equipage, index) => (
+            <Equipage key={index} equipage={equipage} />
+        ))}
+      </section>
     </div>
   );
 };

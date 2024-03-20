@@ -21,3 +21,8 @@
     text-align: center;
     text-transform: uppercase;
   }
+
+  .wrapper {
+      padding-left: 50px;
+      padding-right: 50px;
+  }
