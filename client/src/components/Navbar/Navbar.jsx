@@ -10,6 +10,8 @@ function Navbar() {
                 <Link to="/" className="navbar__link">Home</Link>
                 <span className="navbar__separator">|</span>
                 <Link to="/jeux" className="navbar__link">Jeux</Link>
+                <span className="navbar__separator">|</span>
+                <Link to="/wiki" className="navbar__link">Wiki</Link>
             </div>
         </nav>
     );
