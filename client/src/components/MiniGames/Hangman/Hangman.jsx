@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import WordDisplay from './WordDisplay';
 import './Hangman.css';
 
 const Hangman = ({ players, onWin }) => {
-    const [word, setWord] = useState("onepiece");
+    const [word, setWord] = useState("");
     const [guesses, setGuesses] = useState([]);
     const maxTries = 6;
     const wrongGuesses = guesses.filter(letter => !word.includes(letter));
@@ -11,6 +11,12 @@ const Hangman = ({ players, onWin }) => {
     const isGameOver = wrongGuesses.length >= maxTries;
     const isGameWon = word.split('').every(letter => guesses.includes(letter));
     const [winAnnounced, setWinAnnounced] = useState(false);
+
+    const handleGuess = useCallback((letter) => {
+        if (!guesses.includes(letter)) {
+            setGuesses([...guesses, letter]);
+        }
+    }, [guesses]);
 
     useEffect(() => {
         const handleKeyDown = (event) => {
@@ -24,7 +30,7 @@ const Hangman = ({ players, onWin }) => {
 
         window.addEventListener('keydown', handleKeyDown);
         return () => window.removeEventListener('keydown', handleKeyDown);
-    }, [guesses, isGameOver, isGameWon]);
+    }, [handleGuess, isGameOver, isGameWon]);
 
     useEffect(() => {
         if (isGameWon && !winAnnounced) {
@@ -33,15 +39,19 @@ const Hangman = ({ players, onWin }) => {
         }
     }, [isGameWon, winAnnounced, players, currentPlayerIndex, onWin]);
 
-    const handleGuess = (letter) => {
-        if (!guesses.includes(letter)) {
-            setGuesses([...guesses, letter]);
-        }
-    };
-
     const resetGame = () => {
+        const onePieceWords = [
+            "luffy", "zoro", "nami", "usopp", "sanji",
+            "chopper", "robin", "franky", "brook", "jinbei",
+            "straw hat", "grand line", "devil fruit", "yonko",
+            "shichibukai", "marines", "pirate king", "thousand sunny",
+            "going merry", "red line", "fishman island", "skypiea",
+            "alabasta", "dressrosa", "wano", "marineford",
+            "thriller bark", "impel down", "enies lobby", "raftel"
+        ];
+        const randomWord = onePieceWords[Math.floor(Math.random() * onePieceWords.length)];
         setGuesses([]);
-        setWord("onepiece");
+        setWord(randomWord);
         setCurrentPlayerIndex((currentPlayerIndex + 1) % players.length);
         setWinAnnounced(false);
     };
