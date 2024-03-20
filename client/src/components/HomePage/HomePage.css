@@ -1,0 +1,16 @@
+.homePage {
+    background-color: #f8f1e7;
+    color: #333;
+    padding: 20px;
+    font-family: 'Pirate', sans-serif;
+    max-width: 800px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.homePage__title {
+    color: #d17b46;
+    text-align: center;
+    margin-bottom: 30px;
+}

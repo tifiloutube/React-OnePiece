@@ -1,0 +1,45 @@
+.scoreboard {
+    font-family: 'Pirate', sans-serif;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f8f1e7;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.scoreboard__title {
+    color: #d17b46;
+    text-align: center;
+}
+
+.scoreboard__table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.scoreboard__table th,
+.scoreboard__table td {
+    border: 1px solid #d17b46;
+    padding: 8px;
+    text-align: left;
+    color: #333;
+}
+
+.scoreboard__table th {
+    background-color: #a63c06;
+    color: #ffffff;
+}
+
+.scoreboard__table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.scoreboard__table tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+.scoreboard__table tr:hover {
+    background-color: #ddd;
+}

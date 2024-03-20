@@ -1,0 +1,63 @@
+/* PlayerForm.css */
+.playerForm {
+    background-color: #f8f1e7;
+    color: #333;
+    padding: 20px;
+    font-family: 'Pirate', sans-serif;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: auto;
+}
+
+.playerForm__inputGroup {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.playerForm__input {
+    flex-grow: 1;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+.playerForm__removeButton {
+    background-color: #a63c06;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.playerForm__removeButton:hover {
+    background-color: #d17b46;
+}
+
+.playerForm__buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.playerForm__addButton,
+.playerForm__removeAllButton,
+.playerForm__submitButton {
+    background-color: #a63c06;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.playerForm__addButton:hover,
+.playerForm__removeAllButton:hover,
+.playerForm__submitButton:hover {
+    background-color: #d17b46;
+}

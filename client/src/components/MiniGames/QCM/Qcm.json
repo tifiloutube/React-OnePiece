@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Qui est le capitaine de l'équipage du Chapeau de Paille ?",
+    "options": ["Nami", "Luffy", "Zoro", "Sanji"],
+    "answer": "Luffy"
+  },
+  {
+    "question": "Quel fruit du démon Luffy a-t-il mangé ?",
+    "options": ["Fruit du Démon de Feu", "Fruit du Démon de Glace", "Fruit du Caoutchouc", "Fruit du Démon de l'Eau"],
+    "answer": "Fruit du Caoutchouc"
+  },
+  {
+    "question": "Qui est le navigateur de l'équipage du Chapeau de Paille ?",
+    "options": ["Robin", "Nami", "Usopp", "Chopper"],
+    "answer": "Nami"
+  },
+  {
+    "question": "Quel est le rêve de Zoro ?",
+    "options": ["Devenir le roi des pirates", "Trouver le One Piece", "Devenir le meilleur épéiste du monde", "Naviguer sur toutes les mers"],
+    "answer": "Devenir le meilleur épéiste du monde"
+  },
+  {
+    "question": "Quelle est la prime initiale de Sanji ?",
+    "options": ["77 millions de Berrys", "177 millions de Berrys", "77 Berrys", "1 Berry"],
+    "answer": "77 millions de Berrys"
+  }
+]
