@@ -1,0 +1,85 @@
+{
+  "equipages": [
+    {
+      "nomEquipage": "Chapeau de Paille",
+      "membres": [
+        {
+          "nom": "Monkey D. Luffy",
+          "poste": "Capitaine",
+          "fruitDuDemon": "Gomu Gomu no Mi",
+          "prime": "3 000 000 000"
+        },
+        {
+          "nom": "Roronoa Zoro",
+          "poste": "Épéiste",
+          "fruitDuDemon": "Aucun",
+          "prime": "1 111 000 000"
+        },
+        {
+          "nom": "Nami",
+          "poste": "Navigatrice",
+          "fruitDuDemon": "Aucun",
+          "prime": "366 000 000"
+        },
+        {
+          "nom": "Usopp",
+          "poste": "Canonnier",
+          "fruitDuDemon": "Aucun",
+          "prime": "500 000 000"
+        },
+        {
+          "nom": "Vinsmoke Sanji",
+          "poste": "Cuisinier",
+          "fruitDuDemon": "Gomu Gomu no Mi",
+          "prime": "1 032 000 000"
+        },
+        {
+          "nom": "Tony Tony Chopper",
+          "poste": "Médecin",
+          "fruitDuDemon": "Hito Hito no Mi",
+          "prime": "1000"
+        },
+        {
+          "nom": "Nico Robin",
+          "poste": "Archéologue",
+          "fruitDuDemon": "Hana Hana no Mi",
+          "prime": "930 000 000"
+        },
+        {
+          "nom": "Franky",
+          "poste": "Charpentier",
+          "fruitDuDemon": "Aucun",
+          "prime": "394 000 000"
+        },
+        {
+          "nom": "Brook",
+          "poste": "Musicien",
+          "fruitDuDemon": "Yomi Yomi no Mi",
+          "prime": "383 000 000"
+        },
+        {
+          "nom": "Jimbe",
+          "poste": "Timonier",
+          "fruitDuDemon": "Aucun",
+          "prime": "1 100 000 000"
+        }
+      ],
+      "nomBateau": "Thousand Sunny",
+      "imageBateau": "https://pm1.aminoapps.com/6798/f4c514e9b93104f1f302245fe724c90be1b45851v2_00.jpg",
+      "jollyRoger": "https://ih0.redbubble.net/image.4633589145.6165/raf,360x360,075,t,fafafa:ca443f4786.jpg"
+    },
+    {
+      "nomEquipage": "Barbe Noire",
+      "membres": [
+        {
+          "nom": "Marshall D. Teach",
+          "poste": "Capitaine",
+          "fruitDuDemon": "Yami Yami no Mi, Gura Gura no Mi",
+          "prime": "2,247,600,000"
+        }
+      ],
+      "nomBateau": "Saber of Xebec",
+      "jollyRoger": "https://fakeurl.com/jollyroger_barbe_noire"
+    }
+  ]
+}
