@@ -38,3 +38,13 @@
 .reset-button:hover {
     background-color: #45a049;
 }
+.character-image {
+    width: 100%;
+}
+.word-to-guess{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+}
