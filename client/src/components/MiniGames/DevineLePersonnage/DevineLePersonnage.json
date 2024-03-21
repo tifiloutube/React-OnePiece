@@ -2,26 +2,26 @@
   {
     "id": 1,
     "image": "https://www.japanfm.fr/wp-content/uploads/2023/09/luffy-croise-les-bras-one-piece-scaled.jpg",
-    "nom_du_personnage": "Luffy"
+    "nom_du_personnage": "luffy"
   },
   {
     "id": 2,
     "image": "https://www.melty.fr/wp-content/uploads/meltyfr/2022/02/media-40241.jpg",
-    "nom_du_personnage": "Zoro"
+    "nom_du_personnage": "zoro"
   },
   {
     "id": 3,
     "image": "https://www.japanfm.fr/wp-content/uploads/2023/08/sanji-vinsmoke-one-piece-scaled.jpg",
-    "nom_du_personnage": "Sanji"
+    "nom_du_personnage": "sanji"
   },
   {
     "id": 4,
     "image": "https://static.hitek.fr/img/actualite/ill_m/2119365002/usopptitre.jpg",
-    "nom_du_personnage": "Usopp"
+    "nom_du_personnage": "usopp"
   },
   {
     "id": 5,
     "image": "https://onepiecetheorie.fr/wp-content/uploads/2022/05/Nami-clima-tact.jpg",
-    "nom_du_personnage": "Nami"
+    "nom_du_personnage": "nami"
   }
 ]

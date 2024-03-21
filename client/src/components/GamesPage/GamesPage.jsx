@@ -9,12 +9,12 @@ import DevineLePersonnage from "../MiniGames/DevineLePersonnage/DevineLePersonna
 function GamesPage({ players, setPlayers }) {
     const [selectedGame, setSelectedGame] = useState(null);
 
-    const handleWin = (playerName) => {
-        const updatedPlayers = players.map(player => {
-            if (player.name === playerName) {
-                return { ...player, score: player.score + 1 };
+    const handleWin = (player) => {
+        const updatedPlayers = players.map(p => {
+            if (p.name === player.name) {
+                return { ...p, score: p.score + 1 };
             }
-            return player;
+            return p;
         });
         setPlayers(updatedPlayers);
     };
@@ -35,7 +35,7 @@ function GamesPage({ players, setPlayers }) {
             case 'Qcm':
                 return <Qcm />;
             case 'DevineLePersonnage':
-                return <DevineLePersonnage />;
+                return <DevineLePersonnage players={players} onWin={handleWin} />;
             default:
                 return <div className="gamesPage__selectGame">Sélectionnez un jeu pour commencer</div>;
         }
