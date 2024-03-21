@@ -1,0 +1,50 @@
+.guess-character {
+    font-family: 'Pirate', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.wrong-guesses {
+    color: #e67e22;
+    margin-top: 20px;
+}
+
+.guesses {
+    margin-top: 20px;
+}
+
+.guess-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.guess {
+    display: inline-block;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.reset-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.reset-button:hover {
+    background-color: #45a049;
+}
+.character-image {
+    width: 100%;
+}
+.word-to-guess{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+}
