@@ -10,13 +10,12 @@ function GamesPage({ players, setPlayers }) {
     const [selectedGame, setSelectedGame] = useState(null);
 
     const handleWin = (player) => {
-        const updatedPlayers = players.map(p => {
+        setPlayers((currentPlayers) => currentPlayers.map(p => {
             if (p.name === player.name) {
                 return { ...p, score: p.score + 1 };
             }
             return p;
-        });
-        setPlayers(updatedPlayers);
+        }));
     };
 
     const renderGameComponent = () => {

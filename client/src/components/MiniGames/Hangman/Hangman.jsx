@@ -32,7 +32,7 @@ const Hangman = ({ players, onWin }) => {
         const isGameWon = word.split('').every(letter => guesses.includes(letter));
 
         if (isGameWon && !winAnnounced) {
-            onWin(players[currentPlayerIndex].name);
+            onWin(players[currentPlayerIndex]);
             setWinAnnounced(true);
         }
     }, [guesses, winAnnounced, players, currentPlayerIndex, word, onWin]);
