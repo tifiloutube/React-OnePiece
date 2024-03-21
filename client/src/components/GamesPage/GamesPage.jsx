@@ -32,7 +32,7 @@ function GamesPage({ players, setPlayers }) {
             case 'Pendu':
                 return <Hangman players={players} onWin={handleWin} />;
             case 'Qcm':
-                return <Qcm />;
+                return <Qcm players={players} setPlayers={setPlayers} />;
             case 'DevineLePersonnage':
                 return <DevineLePersonnage players={players} onWin={handleWin} />;
             default:
