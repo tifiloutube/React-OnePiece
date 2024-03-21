@@ -1,6 +1,6 @@
 import React from 'react';
 
-function DevineLePersonnage() {
+const DevineLePersonnage =() => {
     return <div>Bienvenue dans le jeu du Devine le Personage !</div>;
 }
 
