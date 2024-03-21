@@ -29,7 +29,7 @@ function GamesPage({ players, setPlayers }) {
                 </div>
             );
         }
-
+        console.log(selectedGame)
         switch (selectedGame) {
             case 'Pendu':
                 return <Hangman players={players} onWin={handleWin} />;
