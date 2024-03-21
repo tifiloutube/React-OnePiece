@@ -27,7 +27,7 @@ const Equipage = ({ equipage }) => {
         {isOpen && (
           <div className="equipage-details">
             <p><strong>Bateau:</strong> {equipage.nomBateau}</p>
-            <img src={equipage.imageBateau} alt="Bateau" />
+            <img className='nameboat' src={equipage.imageBateau} alt="Bateau" />
             <p><strong>Jolly Roger:</strong> <img className="imgDrapeau" src={equipage.jollyRoger} alt="Jolly Roger" /></p>
             <h4>Membres de l'équipage:</h4>
             <input
