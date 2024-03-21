@@ -46,17 +46,32 @@
 .member-name {
   margin-bottom: 10px;
 }
-
+p {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.nameboat {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  width: 300px;
+}
 .member-details p {
   margin: 5px 0;
 }
 
 .imgDrapeau {
-  max-width: 100px;
-  margin-bottom: 10px;
+  display: flex;
+  margin: auto;
+  width: 20%;
+  border-radius: 10px
 }
 
 .equipage-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   margin-top: 20px;
   padding: 20px;
   border-radius: 5px;
