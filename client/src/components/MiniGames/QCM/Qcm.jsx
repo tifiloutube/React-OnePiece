@@ -6,26 +6,23 @@ const Qcm = ({ players, setPlayers }) => {
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [selectedOption, setSelectedOption] = useState("");
     const [correctAnswer, setCorrectAnswer] = useState("");
-    const [showCorrectMessage, setShowCorrectMessage] = useState(false); // Ajout pour gérer l'affichage du message de bonne réponse
+    const [showCorrectMessage, setShowCorrectMessage] = useState(false);
     const [currentPlayerIndex, setCurrentPlayerIndex] = useState(0);
 
     useEffect(() => {
-        // Réinitialiser l'option sélectionnée, la bonne réponse et le message de bonne réponse à chaque nouvelle question
         setSelectedOption("");
         setCorrectAnswer("");
-        setShowCorrectMessage(false); // Réinitialiser pour ne pas afficher le message par défaut
+        setShowCorrectMessage(false);
     }, [currentQuestionIndex]);
 
     const handleOptionClick = (option) => {
         setSelectedOption(option);
         const correctOption = questionsData[currentQuestionIndex].answer;
         if (option === correctOption) {
-            // Si la réponse est correcte, appelez handleWin et préparez à afficher le message de bonne réponse
             handleWin(players[currentPlayerIndex]);
-            setShowCorrectMessage(true); // Préparer à afficher le message de bonne réponse
-            setCorrectAnswer(correctOption); // Stocker la bonne réponse pour l'utiliser dans le message
+            setShowCorrectMessage(true);
+            setCorrectAnswer(correctOption);
         } else {
-            // Si la réponse est incorrecte, stockez la bonne réponse pour l'afficher
             setCorrectAnswer(correctOption);
         }
     };
@@ -34,13 +31,12 @@ const Qcm = ({ players, setPlayers }) => {
         if (currentQuestionIndex < questionsData.length - 1) {
             setCurrentQuestionIndex(currentQuestionIndex + 1);
         } else {
-            // Réinitialiser ou afficher un message de fin de quiz
             console.log("Fin du quiz");
             setCurrentQuestionIndex(0);
             setCurrentPlayerIndex((currentPlayerIndex + 1) % players.length);
         }
-        setSelectedOption(""); // Réinitialisez l'option sélectionnée pour la prochaine question/joueur
-        setShowCorrectMessage(false); // Assurez-vous de réinitialiser ceci aussi
+        setSelectedOption("");
+        setShowCorrectMessage(false);
     };
 
     const handleWin = (player) => {
@@ -51,14 +47,6 @@ const Qcm = ({ players, setPlayers }) => {
             return p;
         }));
     };
-
-    if (!players || players.length === 0) {
-        return <div>Chargement des joueurs...</div>;
-    }
-
-    if (!questionsData || questionsData.length === 0) {
-        return <div>Chargement des questions...</div>;
-    }
 
     return (
         <div className="qcmContainer">

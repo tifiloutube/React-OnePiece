@@ -72,11 +72,11 @@
 }
 
 .qcmCorrectAnswer {
-    background-color: #c8e6c9; /* Vert clair pour indiquer une réponse correcte */
+    background-color: #c8e6c9;
 }
 
 .qcmWrongAnswer {
-    background-color: #ffcdd2; /* Rouge clair pour indiquer une réponse incorrecte */
+    background-color: #ffcdd2;
 }
 
 .qcmNextQuestionButton {
