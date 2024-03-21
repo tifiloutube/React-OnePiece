@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 import Scoreboard from '../Scoreboard/Scoreboard';
 import './GamesPage.css';
 import Hangman from "../MiniGames/Hangman/Hangman";
-import Qcm from "../MiniGames/QCM/Qcm";
-import DevineLePersonnage from "../MiniGames/DevineLePersonnage/DevineLePersonnage";
+import Qcm from "../MiniGames/QCM/Qcm.jsx";
+import DevineLePersonnage from "../MiniGames/DevineLePersonnage/DevineLePersonnage.jsx";
 
 function GamesPage({ players, setPlayers }) {
     const [selectedGame, setSelectedGame] = useState(null);
@@ -29,7 +29,6 @@ function GamesPage({ players, setPlayers }) {
                 </div>
             );
         }
-        console.log(selectedGame)
         switch (selectedGame) {
             case 'Pendu':
                 return <Hangman players={players} onWin={handleWin} />;

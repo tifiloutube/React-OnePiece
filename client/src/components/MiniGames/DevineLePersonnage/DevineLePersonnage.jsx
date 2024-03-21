@@ -1,7 +1,9 @@
 import React from 'react';
 
 const DevineLePersonnage =() => {
-    return <div>Bienvenue dans le jeu du Devine le Personage !</div>;
+    return (
+        <div>Bienvenue dans le jeu du Devine le Personage !</div>
+    );
 }
 
 export default DevineLePersonnage;
