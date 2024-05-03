@@ -25,6 +25,7 @@
 }
 
 .member-item {
+  width: 100%;
   cursor: pointer;
   padding: 10px 20px;
   background-color: #a63c06;
