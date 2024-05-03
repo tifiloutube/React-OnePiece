@@ -39,8 +39,7 @@ const Equipage = ({ equipage }) => {
             />
             <ul className="member-list">
               {filteredMembres.map((membre, index) => (
-                  // Ajouter un effet au hover ou quand on passe la souris dessus, le texte disparait et l'image apparait
-                <li key={index} className="member-item"  style={{ backgroundImage: `url(${membre.img})` }}>
+                  <li key={index} className="member-item" style={{'--background-image': `url(${membre.img})`}}>
                     <h5 className="member-name">{membre.nom}</h5>
                     <div className="member-details">
                       <p><strong>Poste:</strong> {membre.poste}</p>
@@ -50,7 +49,7 @@ const Equipage = ({ equipage }) => {
                       <p><strong>Prime:</strong> {membre.prime}</p>
                       <p><strong>Commentaire:</strong> {membre.commentaire}</p>
                     </div>
-                </li>
+                  </li>
               ))}
             </ul>
           </div>

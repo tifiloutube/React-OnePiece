@@ -31,17 +31,37 @@
   background-color: #a63c06;
   color: white;
   border-radius: 5px;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, background-image 0.3s ease, opacity 0.3s ease;
   font-weight: bold;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
+  height: 200px;
+  background-image: none;
+}
+
+.member-item:hover {
+  transition: background-color 0.3s ease, background-image 0.3s ease, opacity 0.3s ease;
+  background-image: var(--background-image);
+  color: transparent;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0,0,0,0.8);
 }
 
 .member-item.active {
   background-color: #d17b46;
+}
+
+.member-item .member-details {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+.member-item:hover .member-details {
+  opacity: 0;
 }
 
 .member-name {
